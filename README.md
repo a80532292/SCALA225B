@@ -1,6 +1,15 @@
 # SCALA225B
 Project for the Scala 225B
 
+# Idea SMACK - favor of the day
+I was looking into the LAMBDA architecture and came across the SMACK. I would like to setup a SMACK using 
+
+  First  with VAGRANT
+  Second with AWS as IASS provider
+  Optionally ontop of centos/coreOS
+  
+Run - Both long running batch job and reactive job on it.
+
 # Idea A
 Given a ES cluster, replicate/sync it to multiple out of region cluster. Snapshot is the basic unit of transmission. The sync/replicate process employs at least a 3 agents cluster. 
 
